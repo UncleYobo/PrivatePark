@@ -1,9 +1,9 @@
 {
-"companyName": "DefaultCompany",
+"companyName": "JamesMoyer",
 "productName": "MyPrivatePark",
-"dataUrl": "PrivatePark.data.unityweb",
-"wasmCodeUrl": "PrivatePark.wasm.code.unityweb",
-"wasmFrameworkUrl": "PrivatePark.wasm.framework.unityweb",
+"dataUrl": "MPP.data.unityweb",
+"wasmCodeUrl": "MPP.wasm.code.unityweb",
+"wasmFrameworkUrl": "MPP.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
